@@ -11,4 +11,4 @@ Below is a growing list of challenges I’ve tackled. Each problem is organized 
 
 | Problem                  | Folder                  | Description                                      |
 |--------------------------|-------------------------|--------------------------------------------------|
-| Thread-Safe Linked List  | [/LinkedList](SenioriOSPortfolio/SenioriOSPortfolio/LinkedLists) | A generic, thread-safe linked list implementation. |
+| Event Scheduling Conflict Resolver | [/ScheduleOptimizer](iOSPortfolioPlayground/iOSPortfolio.playground/Pages/Event%20Scheduling%20Conflict%20Resolver.xcplaygroundpage) | An optimized event scheduler that resolves conflicts based on priority and flexibility. |
