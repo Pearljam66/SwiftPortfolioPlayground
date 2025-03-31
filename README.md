@@ -11,4 +11,6 @@ Below is a growing list of challenges I’ve tackled. Each problem is organized 
 
 | Problem                  | Folder                  | Description                                      |
 |--------------------------|-------------------------|--------------------------------------------------|
-| Event Scheduling Conflict Resolver | [/ScheduleOptimizer](iOSPortfolioPlayground/iOSPortfolio.playground/Pages/Event%20Scheduling%20Conflict%20Resolver.xcplaygroundpage) | An optimized event scheduler that resolves conflicts based on priority and flexibility. |
+| Event Scheduling Conflict Resolver | [/ScheduleOptimizer](iOSPortfolio.playground/Pages/ScheduleOptimizer.xcplaygroundpage/Contents.swift) | An optimized event scheduler that resolves conflicts based on priority and flexibility. |
+
+iOSPortfolio.playground/Pages/ScheduleOptimizer.xcplaygroundpage/Contents.swift
