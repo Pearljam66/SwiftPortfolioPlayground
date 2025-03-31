@@ -1,6 +1,6 @@
 # iOS Portfolio Playground(WIP)
 
-A collection of advanced iOS coding challenges and solutions created in Xcode playground. Designed as a portfolio to demonstrate problem-solving, architecture, and best practices for modern iOS development.
+A collection of advanced Swift coding challenges and solutions created in Xcode playground. Designed as a portfolio to demonstrate problem-solving, architecture, and best practices for modern Swift development.
 
 ## Technologies Used
 - Swift
